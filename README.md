@@ -1,2 +1,2 @@
-# FapBird
-Flappy Bird clone in Unity
+# Fap Bird
+Flappy Bird clone in Unity.
