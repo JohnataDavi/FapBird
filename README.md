@@ -4,8 +4,7 @@
 </div>
 
 <div align="center"> 
-<a href="https://github.com/JohnataDavi" target="_blank"><img height="400" alt="Flappy Bird clone in Unity" src="https://user-images.githubusercontent.com/26368939/110173923-17c61000-7dde-11eb-917a-eccbe9183584.png
-"></a>
+  <a href="https://github.com/JohnataDavi" target="_blank"><img height="400" alt="Flappy Bird clone in Unity" src="https://user-images.githubusercontent.com/26368939/110173923-17c61000-7dde-11eb-917a-eccbe9183584.png"></a>
 </div>
 
 <br>
